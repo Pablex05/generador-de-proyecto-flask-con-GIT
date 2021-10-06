@@ -144,7 +144,7 @@ def zip_extract(zipname):
 # funcion para crear el archivo requeriments.txt
 def edit_req(route):
     print("==================================")
-    print("   CREANDO CREANDO REQUERIMENTS   ")
+    print("       CREANDO REQUERIMENTS   ")
     print("==================================")
     print("\n")
     sql_libraries = {'1': 'Flask-SQLAlchemy', '2': 'PyMySQL', '3': 'SQLAlchemy'}
